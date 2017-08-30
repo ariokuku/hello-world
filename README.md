@@ -1,2 +1,4 @@
 # hello-world
-I am CS222
+I am taking cs 222
+Hi,
+Github
